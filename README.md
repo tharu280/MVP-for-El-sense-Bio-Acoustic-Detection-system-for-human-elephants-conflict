@@ -97,6 +97,6 @@ This project is under the **MIT License**.
 
 ## 🤝 Contact
 Built by **Tharushika**  
-📧 [YourEmail@example.com]  
+📧 [tharushika280@gmail.com]  
 🌍 Based in Sri Lanka | Passionate about AI4Wildlife
 
