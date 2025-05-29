@@ -6,7 +6,7 @@
 
 
 
-<img align="right" src="el-sense-diagram.png" width="400" alt="EL-Sense System Architecture">
+<img align="center" src="el-sense-diagram.png" width="800" alt="EL-Sense System Architecture">
 
 ## 📌 Overview
 **EL-Sense** aims to reduce human-elephant conflict in Sri Lanka by providing a **real-time sound-based monitoring and early warning system**. Leveraging AI, spectrogram analysis, and agentic automation, the system detects **elephant rumbles**, **gunshots**, and environmental interference (like rain/thunder) to notify vulnerable communities and assist researchers with elephant behavior insights.
